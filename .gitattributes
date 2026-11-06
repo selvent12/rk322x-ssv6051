@@ -1,5 +1,5 @@
-# Proiect pentru Linux: textul ramane cu LF si cand e clonat pe Windows
-# (scripturile .sh cu CRLF nu ruleaza pe box)
+# Linux project: keep LF line endings even when cloned on Windows
+# (shell scripts with CRLF don't run on the box)
 * text=auto eol=lf
 
 *.ko   binary

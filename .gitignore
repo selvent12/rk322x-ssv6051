@@ -1,0 +1,13 @@
+# local notes
+citeste.txt
+disable IP6.txt
+
+# build output
+*.o
+*.o.d
+*.cmd
+*.mod
+*.mod.c
+modules.order
+Module.symvers
+6051-src/ssv6051.ko
