@@ -1,0 +1,2 @@
+d6718be301635f9aade72000f978f81aa53acb3a Wed Sep 16 12:14:43 2026 -0300 AMPDU TX respeita a janela negociada no ADDBA
+https://github.com/eloirotava/6051

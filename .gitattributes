@@ -1,0 +1,7 @@
+# Proiect pentru Linux: textul ramane cu LF si cand e clonat pe Windows
+# (scripturile .sh cu CRLF nu ruleaza pe box)
+* text=auto eol=lf
+
+*.ko   binary
+*.bin  binary
+*.orig binary
